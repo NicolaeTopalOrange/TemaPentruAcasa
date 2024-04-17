@@ -13,5 +13,6 @@ public class TemaDeAcasa2 {
         int sum =  numberOne + numberTwo;
         int product = numberOne * numberTwo;
         System.out.println("Sum:" + sum + "\n" +"Product: " + product);
+
     }
 }
