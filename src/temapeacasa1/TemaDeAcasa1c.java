@@ -2,7 +2,7 @@ package temapeacasa1;
 
 import java.util.Scanner;
 
-public class TemaDeAcasa3 {
+public class TemaDeAcasa1c {
     public static void main(String[] args) {
         Scanner myObjOne = new Scanner(System.in);
         System.out.println("Insert a number");

@@ -2,7 +2,7 @@ package temapeacasa1;
 
 import java.util.Scanner;
 
-public class TemaDeAcasa2 {
+public class TemaDeAcasa1b {
     public static void main(String[] args) {
         Scanner myObjOne = new Scanner(System.in);
         Scanner myObjTwo = new Scanner(System.in);
