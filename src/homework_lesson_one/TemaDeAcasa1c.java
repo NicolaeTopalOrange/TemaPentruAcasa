@@ -1,4 +1,4 @@
-package temapeacasa1;
+package homework_lesson_one;
 
 import java.util.Scanner;
 
